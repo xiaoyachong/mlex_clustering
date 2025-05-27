@@ -1,4 +1,4 @@
-# mlex_clustering
+# Clustering in MLExchange
 Clustering algorithms using DBSCAN, HDBSCAN and KMeans.
 
 ## Getting started
